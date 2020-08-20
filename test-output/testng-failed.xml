@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="validation.Listeners"/>
+  </listeners>
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="validation.LandingPageTest">
+        <methods>
+          <include name="LifeDesignString"/>
+          <include name="initialize"/>
+          <include name="LaunchURL"/>
+        </methods>
+      </class> <!-- validation.LandingPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

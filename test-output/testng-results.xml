@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19093" started-at="2020-08-19T18:54:56Z" finished-at="2020-08-19T18:55:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19093" started-at="2020-08-19T18:54:56Z" finished-at="2020-08-19T18:55:15Z">
+      <class name="validation.LandingPageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:validation.LandingPageTest@352ff4da]" name="initialize" is-config="true" duration-ms="1456" started-at="2020-08-20T00:24:56Z" finished-at="2020-08-20T00:24:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="GoToMenu()[pri:0, instance:validation.LandingPageTest@352ff4da]" name="GoToMenu" duration-ms="8318" started-at="2020-08-20T00:24:57Z" finished-at="2020-08-20T00:25:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToMenu -->
+        <test-method status="PASS" signature="SubmitProfile()[pri:0, instance:validation.LandingPageTest@352ff4da]" name="SubmitProfile" duration-ms="9184" started-at="2020-08-20T00:25:06Z" finished-at="2020-08-20T00:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitProfile -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:validation.LandingPageTest@352ff4da]" name="teardown" is-config="true" duration-ms="116" started-at="2020-08-20T00:25:15Z" finished-at="2020-08-20T00:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- validation.LandingPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

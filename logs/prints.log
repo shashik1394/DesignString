@@ -1,0 +1,15 @@
+00:25:05.989 [main] INFO  validation.LandingPageTest - Window screen got maximized
+00:25:06.162 [main] INFO  validation.LandingPageTest - Clicked on Menu
+00:25:09.311 [main] INFO  validation.LandingPageTest - Clicked on Life@DesignString
+00:25:09.576 [main] INFO  validation.LandingPageTest - Clicked on QA Engineer
+00:25:12.159 [main] INFO  validation.LandingPageTest - Send Contact Name
+00:25:12.334 [main] INFO  validation.LandingPageTest - Send Contact Number
+00:25:12.506 [main] INFO  validation.LandingPageTest - Send Contact Email
+00:25:12.596 [main] INFO  validation.LandingPageTest - Send Total Exp
+00:25:12.682 [main] INFO  validation.LandingPageTest - Send Current CTC
+00:25:12.779 [main] INFO  validation.LandingPageTest - Send Expected CTC
+00:25:14.884 [main] INFO  validation.LandingPageTest - Select Notice Period
+00:25:15.200 [main] INFO  validation.LandingPageTest - Send Message
+00:25:15.276 [main] INFO  validation.LandingPageTest - Choose File from Local
+00:25:15.361 [main] INFO  validation.LandingPageTest - Click on Submit Button
+00:25:15.361 [main] INFO  validation.LandingPageTest - Application submitted successfully
